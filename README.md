@@ -4,12 +4,6 @@
 This project implements a simple **Student Grade Calculator** using Python.  
 It calculates the average marks of a student based on 5 subjects and assigns a grade accordingly.
 
-The project also demonstrates:
-- Unit testing using **pytest**
-- Continuous Integration (CI) using **GitHub Actions**
-
----
-
 ## Grade Criteria
 
 | Average Marks | Grade |
